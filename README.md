@@ -15,4 +15,4 @@
 
 ![Lot Summary](https://github.com/tlin41390/MechaCar_Statistical_Analysis/blob/main/StatisticsPhotos/lot_summary.png)
 
-  The variance on the suspension coil must not exceed 100 pounds per square inch. For total summary, the variance is below 100 pounds per square inch. Howewver, for the lot summary the 3rd lot greatly exceeds 100 PSI as seen in the data above.
+  The variance on the suspension coil must not exceed 100 pounds per square inch. For total summary, the variance is below 100 pounds per square inch. Howewver, for the lot summary the 3rd lot greatly exceeds 100 PSI as seen in the data above, which fails the specification for PSI.
