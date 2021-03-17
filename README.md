@@ -7,5 +7,4 @@
   
   The model will be effect5ive in predicting the MPG at 71% of the time. 29% of tyhe time it will fail to predict the data adequately. This is still substantially better than other methods of prediction.
   
-**  Statistical Analysis**
 ![Statistical Analysis](https://github.com/tlin41390/MechaCar_Statistical_Analysis/blob/main/StatisticsPhotos/statistcalAnalysis.png)
