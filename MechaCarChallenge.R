@@ -14,6 +14,14 @@ library(tidyverse)
 
 suspensionData <- read.csv(file = 'Suspension_Coil.csv')
 
+total_summary <- suspensionData %>% summarize(Mean=mean(PSI), Median=median(PSI), Variance = var(PSI), SD = sd(PSI))
+
 lot_summary <- suspensionData %>% group_by(Manufacturing_Lot)%>% summarize(Mean=mean(PSI), Median=median(PSI), Variance=var(PSI), SD=sd(PSI) ,.groups = 'keep')
 
-total_summary <- suspensionData %>% group_by()
+#deliverable 3
+t.test(log10(suspensionData$PSI))
+
+t.test(suspensionData$PSI,mu = 1500)
+
+t.test(subset(suspensionData,Manufacturing_Lot=="Lot1")$PSI)
+
