@@ -50,7 +50,10 @@
  To be able to perform an experiment in which we compare one company to the other, we can use the two sample T-test because the test is designened to compare one thing to another if we have a null hypothesis that we want to prove.
  
  The data needed:
-  *The cars of each lot
-  *The safety rating of the cars in Mechacar and its competitor
-  *The fuel efficiency
-  *Cost of maintanence for cars in Mechachar and its competitor
+  * The cars of each lot
+ 
+  * The safety rating of the cars in Mechacar and its competitor
+  
+  * The fuel efficiency
+ 
+  * Cost of maintanence for cars in Mechachar and its competitor
