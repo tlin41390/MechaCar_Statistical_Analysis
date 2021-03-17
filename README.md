@@ -39,18 +39,24 @@
  
  We can run a statistical study and test on the cars produced in MechaCar vs its cometittors. There are many different factors that can go into testing the performance vs its comptetition. This involves testing for cost, fuel efficiency, horse power, maintanence cost, maintanence quality, and safety rating.
   The Metrics needed to run the test are:
-    *Miles Per Gallon of the cars in MechaCar
-    *PSI of suspension data
-    *safety rating for each car
-    *cost of maintanence
-    *fuel efficiency
+  
+    * Miles Per Gallon of the cars in MechaCar
+    
+    * PSI of suspension data
+    
+    * safety rating for each car
+    
+    * cost of maintanence
+    
+    * fuel efficiency
     
  The null hypothesis/alternative hypothesis is that there is statistical significance between Mechacar and its comeptitor.
  
  To be able to perform an experiment in which we compare one company to the other, we can use the two sample T-test because the test is designened to compare one thing to another if we have a null hypothesis that we want to prove.
  
  The data needed:
-  * The cars of each lot
+ 
+  *  The cars of each lot
  
   * The safety rating of the cars in Mechacar and its competitor
   
