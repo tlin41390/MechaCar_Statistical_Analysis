@@ -24,10 +24,13 @@
   Based off of the data from the total t-test and how the p-value exceeds .05, we do not have enough evidence to reject the null hypoithesis that the manufacturing lot is statistically different than the mean 1500.
  
 ![Lot 1](https://github.com/tlin41390/MechaCar_Statistical_Analysis/blob/main/StatisticsPhotos/t-test1.png)
+
   Because the P-value exceeds .05, we cannot reject the null hypothesis that lot 1 is statistically different than the mean of 1500 PSI.
   
 ![Lot 2](https://github.com/tlin41390/MechaCar_Statistical_Analysis/blob/main/StatisticsPhotos/t-test2.png)
+
   The P-Value in this T-test is less than .05, so we can reject the null hypothesis that lot 2 is statistically different than the mean of 1500 PSI.
   
 ![Lot 3](https://github.com/tlin41390/MechaCar_Statistical_Analysis/blob/main/StatisticsPhotos/t-test3.png)
+
   The P-Value in this analysis is less than .05, so we can reject the null hypothesis that lot 3 is statistically different than the mean of 1500 PSI.
