@@ -25,3 +25,8 @@ t.test(suspensionData$PSI,mu = 1500)
 
 t.test(subset(suspensionData,Manufacturing_Lot=="Lot1")$PSI)
 
+t.test(subset(suspensionData,Manufacturing_Lot=="Lot2")$PSI)
+
+t.test(subset(suspensionData,Manufacturing_Lot=="Lot3")$PSI)
+
+
